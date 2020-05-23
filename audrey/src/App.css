@@ -1,0 +1,26 @@
+body{
+    text-align: center;
+    background-color: lightslategray;
+    margin:40px;
+    padding:5px;
+  }
+  
+
+  img{
+    width:450px;
+    height: 540px;
+   
+  }
+  
+  p{
+    font-family: monospace;
+    font-size: 17px;
+  }
+
+  a:hover{
+    color: blueviolet;
+  }
+
+a{
+  color: black;
+}
