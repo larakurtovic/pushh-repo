@@ -1,0 +1,55 @@
+body{
+    text-align: center;
+    background-color: lightslategray;
+    margin:40px;
+    padding:5px;
+  }
+  
+
+  img{
+    margin: 10px;
+    width: 400px;
+    height: 540px;
+   
+  }
+  
+  p{
+    font-size: 17px;
+    font-family:Candara;
+   }
+
+
+a{
+  color: rgb(52, 52, 136);
+  margin:10px;
+}
+
+a:hover{
+  color: rgb(28, 28, 83);
+}
+
+
+.haha{
+  font-family: candara;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
